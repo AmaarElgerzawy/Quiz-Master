@@ -1,0 +1,11 @@
+.settings-page {
+  padding: 20px;
+}
+
+.settings-page h5 {
+  margin-bottom: 20px;
+}
+
+button {
+  min-width: 150px;
+}

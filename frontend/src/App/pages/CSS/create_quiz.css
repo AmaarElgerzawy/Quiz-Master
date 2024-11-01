@@ -1,0 +1,35 @@
+.create-quiz-page {
+  background-color: #f8f9fa;
+}
+
+.create-quiz-page .card {
+  border-radius: 15px;
+  border: none;
+}
+
+.create-quiz-page h3 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #343a40;
+}
+
+.create-quiz-page .form-control {
+  border-radius: 10px;
+  border: 1px solid #ced4da;
+}
+
+.create-quiz-page .btn-primary {
+  background-color: #007bff;
+  border: none;
+  border-radius: 10px;
+}
+
+.create-quiz-page .btn-danger {
+  background-color: #dc3545;
+  border: none;
+}
+
+.create-quiz-page .btn-success {
+  background-color: #28a745;
+  border: none;
+}

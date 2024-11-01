@@ -1,0 +1,38 @@
+
+.sign-up-page .card {
+  border-radius: 15px; /* Rounded card */
+  border: none; /* Remove default border */
+}
+
+.sign-up-page h2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #343a40; /* Darker title */
+}
+
+.sign-up-page .form-control {
+  border-radius: 10px; /* Rounded input fields */
+  border: 1px solid #ced4da;
+}
+
+.sign-up-page .form-label {
+  color: #6c757d; /* Light label color */
+}
+
+.sign-up-page .btn-success {
+  background-color: #28a745; /* Bootstrap success green */
+  border: none;
+  border-radius: 10px; /* Rounded button */
+}
+
+.sign-up-page .btn-success:hover {
+  background-color: #218838; /* Darker green on hover */
+}
+
+.sign-up-page a {
+  color: #28a745; /* Link color */
+}
+
+.sign-up-page a:hover {
+  color: #218838; /* Darker green on hover */
+}

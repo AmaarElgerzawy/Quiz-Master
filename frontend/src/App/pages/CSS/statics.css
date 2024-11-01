@@ -1,0 +1,27 @@
+.statistics-page {
+  background-color: #f8f9fa;
+}
+
+.statistics-page .card {
+  border-radius: 15px;
+  border: none;
+}
+
+.statistics-page h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #343a40;
+}
+
+.statistics-page h5 {
+  font-size: 18px;
+  color: #6c757d;
+}
+
+.statistics-page .card-body {
+  padding: 2rem;
+}
+
+.statistics-page .chartjs-render-monitor {
+  margin-top: 20px;
+}

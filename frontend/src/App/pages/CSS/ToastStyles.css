@@ -1,0 +1,20 @@
+/* ToastStyles.css */
+.Toastify__toast--error {
+  background-color: #f44336; /* Red background for errors */
+  color: white; /* White text */
+}
+
+.Toastify__toast--success {
+  background-color: #4caf50; /* Green background for success */
+  color: white; /* White text */
+}
+
+.Toastify__toast--info {
+  background-color: #2196F3; /* Blue background for info */
+  color: white; /* White text */
+}
+
+.Toastify__toast--default {
+  background-color: #333; /* Dark background for default */
+  color: white; /* White text */
+}

@@ -1,0 +1,37 @@
+.sign-in-page .card {
+  border-radius: 15px; /* Rounded card */
+  border: none; /* Remove default border */
+}
+
+.sign-in-page h2 {
+  font-size: 28px;
+  font-weight: bold;
+  color: #343a40; /* Darker title */
+}
+
+.sign-in-page .form-control {
+  border-radius: 10px; /* Rounded input fields */
+  border: 1px solid #ced4da;
+}
+
+.sign-in-page .form-label {
+  color: #6c757d; /* Light label color */
+}
+
+.sign-in-page .btn-primary {
+  background-color: #007bff; /* Bootstrap primary blue */
+  border: none;
+  border-radius: 10px; /* Rounded button */
+}
+
+.sign-in-page .btn-primary:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.sign-in-page a {
+  color: #007bff;
+}
+
+.sign-in-page a:hover {
+  color: #0056b3; /* Hover effect on links */
+}

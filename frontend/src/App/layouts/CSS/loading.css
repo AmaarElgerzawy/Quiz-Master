@@ -1,0 +1,21 @@
+/* Loader.css */
+
+.loader-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 200px;
+  height: fit-content;
+  width: fit-content;
+  color: white; /* Dark gray text */
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.loader-message {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: white; /* Darker gray for better visibility */
+  text-align: center;
+}

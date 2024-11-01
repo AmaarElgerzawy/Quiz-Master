@@ -1,0 +1,17 @@
+.start-page .card {
+  border-radius: 15px; /* Rounded corners for the card */
+  border: none; /* Remove default border */
+}
+
+.start-page .card img {
+  border-radius: 15px; /* Rounded corners for the image */
+}
+
+.start-page .btn-success {
+  background-color: #28a745;
+  border: none;
+}
+
+.start-page .btn-success:hover {
+  background-color: #218838; /* Darken button on hover */
+}
